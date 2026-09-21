@@ -1,0 +1,9 @@
+{
+  "name": "Quotex Signal Bot V1",
+  "short_name": "Signal Bot",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07101e",
+  "theme_color": "#0b1220",
+  "description": "Mobile signal and backtesting demo app."
+}
